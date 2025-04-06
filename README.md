@@ -7,7 +7,7 @@ Use Pythonic style to encapsulate Hikvision Network Port Industrial Camera Pytho
 - As a prerequisite, you need to install MVS from the official Hikvision website. It supports both MS Windows and Linux, and has been tested on Ubuntu 22.04.<br>
 <a href="https://www.hikrobotics.com/en/machinevision/service/download">Hikrobotics Machine Vision Download Service</a>
 <br>
-## Test model:
-- Network GigE Camera(RJ45 - UTP Cable): MV-CS060-10GC
-- Lens: MVL-HF1628MM-8MP
-- Manufacturing company: Hikrobot
+## Test model:<br>
+- Network GigE Camera(RJ45 - UTP Cable): MV-CS060-10GC<br>
+- Lens: MVL-HF1628MM-8MP<br>
+- Manufacturing company: Hikrobot<br>
