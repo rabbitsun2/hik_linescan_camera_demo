@@ -11,3 +11,10 @@ Use Pythonic style to encapsulate Hikvision Network Port Industrial Camera Pytho
 - Network GigE Camera(RJ45 - UTP Cable): MV-CS060-10GC<br>
 - Lens: MVL-HF1628MM-8MP<br>
 - Manufacturing company: Hikrobot<br>
+
+## Product appearance
+<img src="https://github.com/rabbitsun2/hik_linescan_camera_demo/blob/master/images/250407_industrial_camera.jpg" alt="Industrial-Camera">
+Figure 1. Industrial Camera<br><br>
+
+<img src="https://github.com/rabbitsun2/hik_linescan_camera_demo/blob/master/images/250407_industrial_camera2.jpg" alt="Industrial-Camera">
+Figure 2. Industrial Camera<br><br>
